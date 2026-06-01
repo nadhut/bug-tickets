@@ -1,0 +1,178 @@
+{
+  "export_info": {
+    "quelle": "Bug Prio 2 Tickets (Jira).csv",
+    "anzahl_tickets": 55,
+    "felder": [
+      "Status",
+      "Alle_Kommentare"
+    ],
+    "hinweis": "Jira Export bereinigt für Claude-Analyse"
+  },
+  "tickets": [
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Ready for Release"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "In Arbeit"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Ready for Release"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Ready for Release"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Test"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Test"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "In Arbeit"
+    },
+    {
+      "Status": "Ready for Release"
+    },
+    {
+      "Status": "Test"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Ready for Release"
+    },
+    {
+      "Status": "In Arbeit"
+    },
+    {
+      "Status": "To Fix"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "In Arbeit"
+    },
+    {
+      "Status": "To Fix"
+    },
+    {
+      "Status": "Ready for Release"
+    },
+    {
+      "Status": "In Arbeit"
+    },
+    {
+      "Status": "To Fix"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Test"
+    },
+    {
+      "Status": "Ready for Release"
+    },
+    {
+      "Status": "Ready for Release"
+    },
+    {
+      "Status": "Ready for Release"
+    },
+    {
+      "Status": "Test"
+    },
+    {
+      "Status": "In Arbeit"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "In Arbeit"
+    },
+    {
+      "Status": "Ready for Release"
+    },
+    {
+      "Status": "Test"
+    },
+    {
+      "Status": "Test"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "Ready for Release"
+    },
+    {
+      "Status": "In Arbeit"
+    },
+    {
+      "Status": "In Arbeit"
+    },
+    {
+      "Status": "Zu erledigen"
+    },
+    {
+      "Status": "In Arbeit"
+    }
+  ]
+}
